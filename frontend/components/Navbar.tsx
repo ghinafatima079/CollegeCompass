@@ -91,19 +91,52 @@ export default function Navbar() {
 
                 {/* MOBILE NAV */}
 
-                <nav className="md:hidden flex items-center gap-4 text-xs text-gray-400">
+                <nav className="md:hidden flex items-center gap-4 text-sm text-gray-400 overflow-x-auto scrollbar-hide">
 
-                    <Link href="/">
+                    <Link
+                        href="/"
+                        className="whitespace-nowrap"
+                    >
                         Home
                     </Link>
 
-                    <Link href="/colleges">
+                    <Link
+                        href="/colleges"
+                        className="whitespace-nowrap"
+                    >
                         Explore
                     </Link>
 
-                    <Link href="/compare">
+                    <Link
+                        href="/compare"
+                        className="whitespace-nowrap"
+                    >
                         Compare
                     </Link>
+
+                    <Link
+                        href="/saved"
+                        className="whitespace-nowrap"
+                    >
+                        Saved
+                    </Link>
+
+                    <SignedOut>
+
+                        <Link
+                            href="/sign-in"
+                            className="whitespace-nowrap"
+                        >
+                            Sign In
+                        </Link>
+
+                    </SignedOut>
+
+                    <SignedIn>
+
+                        <UserButton />
+
+                    </SignedIn>
 
                 </nav>
 

@@ -32,7 +32,7 @@ export default function CollegesPage() {
 
             <Navbar />
 
-            <div className="max-w-7xl mx-auto px-6 py-10">
+            <div className="max-w-7xl mx-auto px-4 md:px-8 py-12 md:py-16 pb-40 md:pb-16">
 
                 <div className="flex flex-col md:flex-row md:items-end md:justify-between gap-6 mb-12">
 
