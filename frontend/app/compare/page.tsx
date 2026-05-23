@@ -587,7 +587,7 @@ export default function ComparePage() {
             {
                 authMessage && (
 
-                    <div className="fixed bottom-24 left-1/2 -translate-x-1/2 z-50 bg-[#171b22] border border-[#343c4a] text-sm text-gray-300 px-4 py-3 rounded-xl shadow-2xl">
+                    <div className="fixed bottom-24 left-1/2 -translate-x-1/2 z-50 bg-[#171b22] border border-red-500 text-red-400 text-sm px-4 py-3 rounded-xl shadow-2xl">
 
                         {authMessage}
 
