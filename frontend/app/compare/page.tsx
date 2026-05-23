@@ -41,6 +41,9 @@ export default function ComparePage() {
     const [colleges, setColleges] =
         useState<College[]>([]);
 
+    const [authMessage, setAuthMessage] =
+        useState("");
+
     const {
         savedIds,
         refreshSaved
@@ -104,7 +107,20 @@ export default function ComparePage() {
         college: College
     ) => {
 
-        if (!user) return;
+        if (!user) {
+
+            setAuthMessage(
+                "Sign in to save colleges"
+            );
+
+            setTimeout(() => {
+
+                setAuthMessage("");
+
+            }, 2500);
+
+            return;
+        }
 
         const saved =
             savedIds.includes(college.id);
@@ -567,6 +583,18 @@ export default function ComparePage() {
                 )}
 
             </div>
+
+            {
+                authMessage && (
+
+                    <div className="fixed bottom-24 left-1/2 -translate-x-1/2 z-50 bg-[#171b22] border border-[#343c4a] text-sm text-gray-300 px-4 py-3 rounded-xl shadow-2xl">
+
+                        {authMessage}
+
+                    </div>
+
+                )
+            }
 
         </main>
 
