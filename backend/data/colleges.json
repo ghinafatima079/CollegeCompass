@@ -1,0 +1,2402 @@
+[
+  {
+    "name": "Indian Institute of Technology Bombay",
+    "location": "Mumbai, Maharashtra",
+    "fees": 897000,
+    "rating": 4.9,
+    "placements_percentage": 98,
+    "avg_package": 2100000,
+    "description": "IIT Bombay is one of India's premier engineering institutions, known for cutting-edge research, world-class faculty, and a vibrant campus culture. It consistently ranks among the top engineering colleges globally.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/5/5e/IIT_Bombay_Logo.svg",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Delhi",
+    "location": "New Delhi, Delhi",
+    "fees": 897000,
+    "rating": 4.9,
+    "placements_percentage": 97,
+    "avg_package": 2000000,
+    "description": "IIT Delhi is a prestigious public technical university located in South Delhi. It is renowned for its research contributions, innovative programs, and high-achieving alumni across the globe.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/4/44/IIT_Delhi_logo.svg",
+    "courses": [
+      "Computer Science and Engineering",
+      "Civil Engineering",
+      "Chemical Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Madras",
+    "location": "Chennai, Tamil Nadu",
+    "fees": 875000,
+    "rating": 4.9,
+    "placements_percentage": 97,
+    "avg_package": 1950000,
+    "description": "Nestled in a forested campus in Chennai, IIT Madras is celebrated for its research excellence and has been ranked as India's top engineering institution multiple years in a row by NIRF.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/6/69/IIT_Madras_Logo.svg",
+    "courses": [
+      "Aerospace Engineering",
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Kanpur",
+    "location": "Kanpur, Uttar Pradesh",
+    "fees": 897000,
+    "rating": 4.8,
+    "placements_percentage": 96,
+    "avg_package": 1900000,
+    "description": "IIT Kanpur is known for pioneering computer science education in India. It offers a rigorous academic environment and has produced many successful entrepreneurs, scientists, and engineers.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/2/26/IIT_Kanpur_Logo.svg",
+    "courses": [
+      "Computer Science and Engineering",
+      "Materials Science and Engineering",
+      "Electrical Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Kharagpur",
+    "location": "Kharagpur, West Bengal",
+    "fees": 868000,
+    "rating": 4.8,
+    "placements_percentage": 95,
+    "avg_package": 1850000,
+    "description": "The oldest IIT in India, IIT Kharagpur has a sprawling campus and offers a diverse range of engineering programs. Its alumni network spans major corporations and institutions worldwide.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/1/1c/IIT_Kharagpur_Logo.svg",
+    "courses": [
+      "Mining Engineering",
+      "Computer Science and Engineering",
+      "Agricultural and Food Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Roorkee",
+    "location": "Roorkee, Uttarakhand",
+    "fees": 897000,
+    "rating": 4.7,
+    "placements_percentage": 94,
+    "avg_package": 1750000,
+    "description": "One of Asia's oldest technical institutions, IIT Roorkee is known for its strong civil and water resources engineering programs, along with growing excellence in computer science.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/b/b3/IIT_Roorkee_logo.svg",
+    "courses": [
+      "Civil Engineering",
+      "Computer Science and Engineering",
+      "Earthquake Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Guwahati",
+    "location": "Guwahati, Assam",
+    "fees": 868000,
+    "rating": 4.6,
+    "placements_percentage": 91,
+    "avg_package": 1600000,
+    "description": "Located on the north bank of the Brahmaputra, IIT Guwahati is a scenic campus with strong academics. It serves as a key technical institution for Northeast India.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/1/12/IIT_Guwahati_Logo.png",
+    "courses": [
+      "Biosciences and Bioengineering",
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Hyderabad",
+    "location": "Hyderabad, Telangana",
+    "fees": 897000,
+    "rating": 4.6,
+    "placements_percentage": 90,
+    "avg_package": 1700000,
+    "description": "IIT Hyderabad is a newer IIT with rapidly growing research output and strong industry ties in the tech hub of Hyderabad. It emphasizes innovation and entrepreneurship.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/0/01/Indian_Institute_of_Technology_Hyderabad_Logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Artificial Intelligence",
+      "Electrical Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Indore",
+    "location": "Indore, Madhya Pradesh",
+    "fees": 897000,
+    "rating": 4.5,
+    "placements_percentage": 88,
+    "avg_package": 1550000,
+    "description": "IIT Indore is a dynamic institute with a modern campus and strong focus on research and interdisciplinary studies. It has shown consistent improvement in national and international rankings.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/2/2d/IIT_Indore_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Gandhinagar",
+    "location": "Gandhinagar, Gujarat",
+    "fees": 897000,
+    "rating": 4.5,
+    "placements_percentage": 87,
+    "avg_package": 1500000,
+    "description": "IIT Gandhinagar is known for its liberal arts integration with engineering education. It focuses on holistic development, creativity, and cross-disciplinary thinking.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/2/25/IITGN_Logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Chemical Engineering",
+      "Earth Sciences"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology BHU",
+    "location": "Varanasi, Uttar Pradesh",
+    "fees": 897000,
+    "rating": 4.5,
+    "placements_percentage": 89,
+    "avg_package": 1600000,
+    "description": "Located within the Banaras Hindu University campus, IIT BHU is one of the oldest technical institutes in India with strong programs in mining, metallurgical, and ceramic engineering.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/b/b6/IIT_BHU_logo.png",
+    "courses": [
+      "Mining Engineering",
+      "Metallurgical Engineering",
+      "Computer Science and Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Patna",
+    "location": "Patna, Bihar",
+    "fees": 868000,
+    "rating": 4.3,
+    "placements_percentage": 83,
+    "avg_package": 1350000,
+    "description": "IIT Patna is rapidly growing with new infrastructure and research centers. It serves as a key institution for eastern India with increasing industrial collaborations.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/c/c2/IIT_Patna_Logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Civil Engineering",
+      "Electrical Engineering"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Trichy",
+    "location": "Tiruchirappalli, Tamil Nadu",
+    "fees": 560000,
+    "rating": 4.7,
+    "placements_percentage": 95,
+    "avg_package": 1400000,
+    "description": "NIT Trichy is consistently ranked among the top NITs and is known for its excellent placement record, strong alumni network, and rigorous academic culture.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/8/8b/NIT_Trichy_Logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Warangal",
+    "location": "Warangal, Telangana",
+    "fees": 560000,
+    "rating": 4.6,
+    "placements_percentage": 93,
+    "avg_package": 1350000,
+    "description": "One of the oldest NITs, NIT Warangal has a strong legacy in technical education and is known for its vibrant student culture, research labs, and excellent placement outcomes.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/4/4d/NITW_logo.png",
+    "courses": [
+      "Mechanical Engineering",
+      "Computer Science and Engineering",
+      "Chemical Engineering"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Surathkal",
+    "location": "Mangalore, Karnataka",
+    "fees": 542000,
+    "rating": 4.6,
+    "placements_percentage": 92,
+    "avg_package": 1300000,
+    "description": "Situated on the scenic Konkan coast, NIT Surathkal is known for its strong engineering programs and excellent industry connections, particularly in the IT and manufacturing sectors.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/1/1e/NITK_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electrical and Electronics Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Calicut",
+    "location": "Kozhikode, Kerala",
+    "fees": 560000,
+    "rating": 4.5,
+    "placements_percentage": 91,
+    "avg_package": 1250000,
+    "description": "NIT Calicut is a premier technical institution in Kerala, known for quality education and research. Its graduates are highly sought after by top companies in India and abroad.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/5/5e/NIT_Calicut_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Civil Engineering",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Rourkela",
+    "location": "Rourkela, Odisha",
+    "fees": 560000,
+    "rating": 4.5,
+    "placements_percentage": 90,
+    "avg_package": 1200000,
+    "description": "NIT Rourkela is a leading technical institution in eastern India with strong focus on metallurgical and mining engineering alongside emerging tech fields.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/6/6f/NIT_Rourkela_logo.png",
+    "courses": [
+      "Metallurgical and Materials Engineering",
+      "Computer Science and Engineering",
+      "Electronics and Instrumentation Engineering"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Jaipur",
+    "location": "Jaipur, Rajasthan",
+    "fees": 542000,
+    "rating": 4.4,
+    "placements_percentage": 88,
+    "avg_package": 1150000,
+    "description": "NIT Jaipur (MNIT) is strategically located in the Pink City with close proximity to Jaipur's growing tech ecosystem. It offers strong programs in electronics and computer engineering.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/7/70/MNIT_Jaipur_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Electrical Engineering"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Allahabad",
+    "location": "Prayagraj, Uttar Pradesh",
+    "fees": 560000,
+    "rating": 4.4,
+    "placements_percentage": 87,
+    "avg_package": 1100000,
+    "description": "MNNIT Allahabad, located in the city of Prayagraj, is known for academic rigor and a strong placement culture. It has well-established ties with IT companies and PSUs.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/4/45/MNNIT_Allahabad_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Nagpur",
+    "location": "Nagpur, Maharashtra",
+    "fees": 542000,
+    "rating": 4.3,
+    "placements_percentage": 86,
+    "avg_package": 1050000,
+    "description": "VNIT Nagpur is centrally located and maintains strong ties with Nagpur's industrial belt. It offers diverse engineering programs and has a growing research culture.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/d/d5/VNIT_Nagpur_logo.png",
+    "courses": [
+      "Mechanical Engineering",
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Allahabad",
+    "location": "Prayagraj, Uttar Pradesh",
+    "fees": 560000,
+    "rating": 4.5,
+    "placements_percentage": 93,
+    "avg_package": 1500000,
+    "description": "IIIT Allahabad is among the oldest and most reputed IIITs, known for its focused IT education. It has strong placement records with top tech companies and an active research community.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/8/84/IIIT_Allahabad_logo.png",
+    "courses": [
+      "Information Technology",
+      "Electronics and Communication Engineering",
+      "Applied Mathematics"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Hyderabad",
+    "location": "Hyderabad, Telangana",
+    "fees": 580000,
+    "rating": 4.5,
+    "placements_percentage": 92,
+    "avg_package": 1600000,
+    "description": "IIIT Hyderabad is a premier research institute focusing on computing and allied areas. It has pioneered AI and language technology research in India with multiple start-up incubations.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/0/07/IIIT_Hyderabad_Logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Computational Linguistics"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Bangalore",
+    "location": "Bengaluru, Karnataka",
+    "fees": 560000,
+    "rating": 4.4,
+    "placements_percentage": 91,
+    "avg_package": 1550000,
+    "description": "IIIT Bangalore combines the advantages of Bengaluru's tech ecosystem with focused IT education and research. It has strong industry partnerships and a thriving alumni network.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/9/9c/IIIT_Bangalore_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Data Science",
+      "Software Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Gwalior",
+    "location": "Gwalior, Madhya Pradesh",
+    "fees": 530000,
+    "rating": 4.3,
+    "placements_percentage": 88,
+    "avg_package": 1200000,
+    "description": "ABV-IIITM Gwalior is one of the oldest IIITs with a strong tradition in IT and management education. It produces industry-ready graduates with dual expertise in tech and business.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/b/b9/ABV_IIITM_Gwalior_logo.png",
+    "courses": [
+      "Information Technology",
+      "Computer Science and Engineering",
+      "IT with Management"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Design and Manufacturing Kancheepuram",
+    "location": "Chennai, Tamil Nadu",
+    "fees": 540000,
+    "rating": 4.3,
+    "placements_percentage": 87,
+    "avg_package": 1150000,
+    "description": "IIITDM Kancheepuram integrates design and manufacturing with IT, offering unique interdisciplinary programs. Located near Chennai, it benefits from the city's industrial corridor.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3c/IIITDM_Kancheepuram_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Engineering Design"
+    ]
+  },
+  {
+    "name": "BITS Pilani",
+    "location": "Pilani, Rajasthan",
+    "fees": 1980000,
+    "rating": 4.8,
+    "placements_percentage": 97,
+    "avg_package": 1800000,
+    "description": "BITS Pilani is India's top private engineering institution, renowned for its practice school program, research culture, and consistent production of industry leaders and entrepreneurs.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/d/d3/BITS_Pilani-Logo.svg",
+    "courses": [
+      "Computer Science",
+      "Electronics and Instrumentation",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "name": "BITS Pilani – Hyderabad Campus",
+    "location": "Hyderabad, Telangana",
+    "fees": 1980000,
+    "rating": 4.7,
+    "placements_percentage": 95,
+    "avg_package": 1750000,
+    "description": "The Hyderabad campus of BITS Pilani carries the same academic rigor and practice school system as the main campus, with added benefits of Hyderabad's booming IT and pharma industries.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/d/d3/BITS_Pilani-Logo.svg",
+    "courses": [
+      "Computer Science",
+      "Chemical Engineering",
+      "Electrical and Electronics Engineering"
+    ]
+  },
+  {
+    "name": "BITS Pilani – Goa Campus",
+    "location": "Vasco da Gama, Goa",
+    "fees": 1980000,
+    "rating": 4.6,
+    "placements_percentage": 94,
+    "avg_package": 1700000,
+    "description": "BITS Goa offers the same esteemed BITS curriculum in the scenic coastal state, with a thriving tech fest culture and strong connections with companies in Goa's growing IT park.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/d/d3/BITS_Pilani-Logo.svg",
+    "courses": [
+      "Computer Science",
+      "Electronics and Electrical Engineering",
+      "Mathematics and Computing"
+    ]
+  },
+  {
+    "name": "Vellore Institute of Technology",
+    "location": "Vellore, Tamil Nadu",
+    "fees": 1750000,
+    "rating": 4.5,
+    "placements_percentage": 93,
+    "avg_package": 1050000,
+    "description": "VIT Vellore is one of India's largest private engineering universities, known for its state-of-the-art infrastructure, international collaborations, and excellent placement support system.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/8/8c/VIT_University_Logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Biomedical Engineering"
+    ]
+  },
+  {
+    "name": "Manipal Institute of Technology",
+    "location": "Manipal, Karnataka",
+    "fees": 1900000,
+    "rating": 4.5,
+    "placements_percentage": 90,
+    "avg_package": 1000000,
+    "description": "MIT Manipal is a top private engineering college known for its international collaborations, strong alumni network in IT, and holistic student development programs.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/b/bf/Manipal_Institute_of_Technology.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Information Technology",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "name": "SRM Institute of Science and Technology",
+    "location": "Kattankulathur, Tamil Nadu",
+    "fees": 1600000,
+    "rating": 4.2,
+    "placements_percentage": 85,
+    "avg_package": 650000,
+    "description": "SRM is a large private deemed university with a strong engineering focus, known for diverse programs, active student life, and increasing research activity across campuses.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/0/04/SRM_Institute_of_Science_and_Technology_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "name": "Amrita Vishwa Vidyapeetham",
+    "location": "Coimbatore, Tamil Nadu",
+    "fees": 1500000,
+    "rating": 4.3,
+    "placements_percentage": 86,
+    "avg_package": 700000,
+    "description": "Amrita is a multi-campus university known for its values-based education model. It has strong research programs in cybersecurity, AI, and robotics, and is affiliated with international universities.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/a/a6/Amrita_Vishwa_Vidyapeetham_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Robotics and Automation",
+      "Electrical and Electronics Engineering"
+    ]
+  },
+  {
+    "name": "Thapar Institute of Engineering and Technology",
+    "location": "Patiala, Punjab",
+    "fees": 1800000,
+    "rating": 4.4,
+    "placements_percentage": 89,
+    "avg_package": 950000,
+    "description": "Thapar is a highly regarded private deemed university in North India known for its research output, Google-ranked programs, and consistent placement performance in core and IT sectors.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/b/be/Thapar_University_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Chemical Engineering"
+    ]
+  },
+  {
+    "name": "Jadavpur University",
+    "location": "Kolkata, West Bengal",
+    "fees": 125000,
+    "rating": 4.6,
+    "placements_percentage": 88,
+    "avg_package": 900000,
+    "description": "Jadavpur University is one of India's premier state universities, known for its high academic standards, vibrant student politics, and strong engineering and arts faculties.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/2/28/Jadavpur_University_Logo.svg",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "name": "Anna University – College of Engineering",
+    "location": "Chennai, Tamil Nadu",
+    "fees": 200000,
+    "rating": 4.4,
+    "placements_percentage": 87,
+    "avg_package": 750000,
+    "description": "Anna University is a state technical university in Tamil Nadu with an excellent reputation for engineering education. Its affiliating college, College of Engineering, Chennai, has historic significance.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/6/6d/Anna_University_Logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Civil Engineering",
+      "Chemical Engineering"
+    ]
+  },
+  {
+    "name": "Osmania University College of Engineering",
+    "location": "Hyderabad, Telangana",
+    "fees": 175000,
+    "rating": 4.1,
+    "placements_percentage": 78,
+    "avg_package": 580000,
+    "description": "Osmania University's engineering college is one of the oldest in South India, with a long tradition of producing engineers who have played pivotal roles in India's industrial development.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/f/f7/Osmania_University_logo.png",
+    "courses": [
+      "Civil Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "name": "PSG College of Technology",
+    "location": "Coimbatore, Tamil Nadu",
+    "fees": 490000,
+    "rating": 4.4,
+    "placements_percentage": 90,
+    "avg_package": 780000,
+    "description": "PSG College of Technology is a prestigious autonomous institution in Coimbatore, well-known for its strong curriculum, industry ties, and excellent placement for both IT and core engineering roles.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/8/8b/PSG_College_of_Technology_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Mechatronics Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "BMS College of Engineering",
+    "location": "Bengaluru, Karnataka",
+    "fees": 650000,
+    "rating": 4.3,
+    "placements_percentage": 86,
+    "avg_package": 820000,
+    "description": "BMS College is one of Bengaluru's oldest and most respected private engineering institutions. It benefits from its proximity to the Silicon Valley of India and strong industry partnerships.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/9/9c/BMS_College_of_Engineering_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Information Science and Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "RV College of Engineering",
+    "location": "Bengaluru, Karnataka",
+    "fees": 680000,
+    "rating": 4.3,
+    "placements_percentage": 88,
+    "avg_package": 850000,
+    "description": "RVCE is a premier private engineering college in Bengaluru affiliated with VTU, known for its strong student culture, technical fests, and consistent placements in IT and core companies.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/4/48/RVCE_Logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Mechanical Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "PES University",
+    "location": "Bengaluru, Karnataka",
+    "fees": 1600000,
+    "rating": 4.4,
+    "placements_percentage": 91,
+    "avg_package": 1050000,
+    "description": "PES University is a top private university in Bengaluru known for its strong CS programs and excellent placement record with global tech companies including Google, Amazon, and Microsoft.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/c/c0/PES_University_Logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "SASTRA Deemed University",
+    "location": "Thanjavur, Tamil Nadu",
+    "fees": 700000,
+    "rating": 4.2,
+    "placements_percentage": 84,
+    "avg_package": 650000,
+    "description": "SASTRA is a well-known deemed university in Tamil Nadu with quality engineering programs, active research centers, and a dedicated placement cell that has tie-ups with leading IT companies.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/9/9e/SASTRA_University_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Biomedical Engineering"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Silchar",
+    "location": "Silchar, Assam",
+    "fees": 530000,
+    "rating": 4.1,
+    "placements_percentage": 80,
+    "avg_package": 850000,
+    "description": "NIT Silchar serves as a key technical institution for Northeast India. It has been strengthening its research and placement infrastructure, with notable improvements in recent years.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/4/41/NIT_Silchar_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electrical Engineering",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Durgapur",
+    "location": "Durgapur, West Bengal",
+    "fees": 542000,
+    "rating": 4.2,
+    "placements_percentage": 82,
+    "avg_package": 900000,
+    "description": "NIT Durgapur is strategically located in West Bengal's industrial belt, offering strong programs in metallurgy, computer science, and mechanical engineering with solid placement records.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/0/09/NIT_Durgapur_logo.png",
+    "courses": [
+      "Metallurgical and Materials Engineering",
+      "Computer Science and Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "name": "Delhi Technological University",
+    "location": "New Delhi, Delhi",
+    "fees": 350000,
+    "rating": 4.4,
+    "placements_percentage": 89,
+    "avg_package": 1000000,
+    "description": "Formerly Delhi College of Engineering, DTU is a top state university in Delhi known for its technical programs, research culture, and strong placements in India's capital region.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/4/4e/Delhi_Technological_University_Logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Software Engineering"
+    ]
+  },
+  {
+    "name": "Netaji Subhas University of Technology",
+    "location": "New Delhi, Delhi",
+    "fees": 350000,
+    "rating": 4.3,
+    "placements_percentage": 87,
+    "avg_package": 950000,
+    "description": "NSUT (formerly NSIT) is one of Delhi's premier engineering colleges under the University of Delhi, with an excellent reputation in electronics, computer science, and IT.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/c/cc/Netaji_Subhas_University_of_Technology.png",
+    "courses": [
+      "Electronics and Communication Engineering",
+      "Computer Science and Engineering",
+      "Information Technology"
+    ]
+  },
+  {
+    "name": "Pune Institute of Computer Technology",
+    "location": "Pune, Maharashtra",
+    "fees": 500000,
+    "rating": 4.3,
+    "placements_percentage": 88,
+    "avg_package": 880000,
+    "description": "PICT Pune is among the best autonomous engineering colleges in Maharashtra, with a strong reputation for computer science education and excellent placement record in IT companies.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/3/39/PICT_Logo.png",
+    "courses": [
+      "Computer Engineering",
+      "Information Technology",
+      "Electronics and Telecommunication Engineering"
+    ]
+  },
+  {
+    "name": "College of Engineering Pune",
+    "location": "Pune, Maharashtra",
+    "fees": 380000,
+    "rating": 4.4,
+    "placements_percentage": 87,
+    "avg_package": 870000,
+    "description": "CoEP is one of the oldest and most respected engineering colleges in India, known for its distinguished alumni, strong technical culture, and consistent placement outcomes.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/7/7f/College_of_Engineering_Pune_Logo.png",
+    "courses": [
+      "Mechanical Engineering",
+      "Computer Engineering",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "name": "Sardar Patel Institute of Technology",
+    "location": "Mumbai, Maharashtra",
+    "fees": 480000,
+    "rating": 4.2,
+    "placements_percentage": 85,
+    "avg_package": 830000,
+    "description": "SPIT Mumbai is a well-known autonomous engineering institute in Andheri, Mumbai. It has a strong academic reputation and benefits from close proximity to Mumbai's vibrant tech ecosystem.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/7/79/SPIT_Mumbai_Logo.png",
+    "courses": [
+      "Computer Engineering",
+      "Electronics and Telecommunication Engineering",
+      "Information Technology"
+    ]
+  },
+  {
+    "name": "Veermata Jijabai Technological Institute",
+    "location": "Mumbai, Maharashtra",
+    "fees": 350000,
+    "rating": 4.3,
+    "placements_percentage": 88,
+    "avg_package": 900000,
+    "description": "VJTI is one of Mumbai's oldest and most prestigious government engineering colleges. It is known for its strong curriculum, diverse student body, and excellent placement in IT and manufacturing.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/3/33/VJTI_Mumbai_logo.png",
+    "courses": [
+      "Computer Engineering",
+      "Mechanical Engineering",
+      "Electronics and Telecommunication Engineering"
+    ]
+  },
+  {
+    "name": "International Institute of Information Technology Pune",
+    "location": "Pune, Maharashtra",
+    "fees": 560000,
+    "rating": 4.2,
+    "placements_percentage": 86,
+    "avg_package": 950000,
+    "description": "I²IT Pune is a private IT-focused institution known for specialization in computing and information technology, with industry-integrated learning and decent placement outcomes.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/9/9e/I2IT_Logo.png",
+    "courses": [
+      "Computer Engineering",
+      "Information Technology",
+      "Electronics and Telecommunication Engineering"
+    ]
+  },
+  {
+    "name": "Kalinga Institute of Industrial Technology",
+    "location": "Bhubaneswar, Odisha",
+    "fees": 1300000,
+    "rating": 4.2,
+    "placements_percentage": 84,
+    "avg_package": 750000,
+    "description": "KIIT is a deemed university in Odisha known for its large campus, diverse engineering programs, and strong social mission, providing education to thousands including tribal students.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/d/dc/KIIT_University_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "name": "Siksha 'O' Anusandhan University",
+    "location": "Bhubaneswar, Odisha",
+    "fees": 950000,
+    "rating": 3.9,
+    "placements_percentage": 75,
+    "avg_package": 580000,
+    "description": "SOA University is a growing private university in Odisha offering engineering programs across multiple disciplines. It has made steady improvements in infrastructure and placement activity.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/1/15/SOA_University_Logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Civil Engineering",
+      "Electrical and Electronics Engineering"
+    ]
+  },
+  {
+    "name": "Kongu Engineering College",
+    "location": "Erode, Tamil Nadu",
+    "fees": 430000,
+    "rating": 4.0,
+    "placements_percentage": 79,
+    "avg_package": 550000,
+    "description": "Kongu Engineering College is an autonomous institution in Tamil Nadu, known for its strong placement cell and consistent performance in campus recruitment from IT and manufacturing companies.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/9/92/Kongu_Engineering_College_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Mechanical Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "Ramaiah Institute of Technology",
+    "location": "Bengaluru, Karnataka",
+    "fees": 690000,
+    "rating": 4.2,
+    "placements_percentage": 84,
+    "avg_package": 780000,
+    "description": "M.S. Ramaiah Institute of Technology is one of Bengaluru's premier private engineering institutions with strong programs in computer science, civil, and mechanical engineering.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/c/c6/MSRIT_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Civil Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "name": "New Horizon College of Engineering",
+    "location": "Bengaluru, Karnataka",
+    "fees": 580000,
+    "rating": 3.8,
+    "placements_percentage": 76,
+    "avg_package": 560000,
+    "description": "New Horizon College of Engineering in Bengaluru is an autonomous college with decent placement record and a range of engineering programs. It is well-connected to local IT industry.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/2/2b/New_Horizon_College_of_Engineering_Logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Information Science and Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Patna",
+    "location": "Patna, Bihar",
+    "fees": 530000,
+    "rating": 4.0,
+    "placements_percentage": 78,
+    "avg_package": 780000,
+    "description": "NIT Patna serves the engineering education needs of Bihar and surrounding states. It is working on strengthening its research and placement activities with new collaborations.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/7/71/NIT_Patna_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electrical Engineering",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "name": "Nirma University",
+    "location": "Ahmedabad, Gujarat",
+    "fees": 1200000,
+    "rating": 4.2,
+    "placements_percentage": 85,
+    "avg_package": 850000,
+    "description": "Nirma University is a well-known private university in Gujarat offering quality engineering education. It is closely linked with Gujarat's thriving industrial and pharmaceutical ecosystem.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3f/Nirma_University_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Chemical Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "Dhirubhai Ambani Institute of Information and Communication Technology",
+    "location": "Gandhinagar, Gujarat",
+    "fees": 1450000,
+    "rating": 4.4,
+    "placements_percentage": 90,
+    "avg_package": 1100000,
+    "description": "DA-IICT is a niche private university focused on ICT. It has strong industry ties and a reputation for producing tech-savvy graduates who are valued by top firms worldwide.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/9/93/DAIICT_logo.png",
+    "courses": [
+      "Information and Communication Technology",
+      "Computer Science and Engineering",
+      "Mathematics and Computing"
+    ]
+  },
+  {
+    "name": "Motilal Nehru National Institute of Technology Allahabad",
+    "location": "Prayagraj, Uttar Pradesh",
+    "fees": 560000,
+    "rating": 4.4,
+    "placements_percentage": 88,
+    "avg_package": 1100000,
+    "description": "MNNIT is an NIT with strong academic culture and campus life. Its graduates are placed in premier tech companies and PSUs, reflecting the institution's commitment to quality education.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/4/45/MNNIT_Allahabad_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electrical Engineering",
+      "Production and Industrial Engineering"
+    ]
+  },
+  {
+    "name": "Institute of Chemical Technology",
+    "location": "Mumbai, Maharashtra",
+    "fees": 250000,
+    "rating": 4.5,
+    "placements_percentage": 92,
+    "avg_package": 900000,
+    "description": "ICT Mumbai (formerly UDCT) is a premier chemical engineering institution with a global reputation in chemical, pharma, and food engineering. Its research and industry links are exemplary.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/a/a1/Institute_of_Chemical_Technology_logo.png",
+    "courses": [
+      "Chemical Engineering",
+      "Pharmaceutical Sciences and Technology",
+      "Food Engineering and Technology"
+    ]
+  },
+  {
+    "name": "SVNIT Surat",
+    "location": "Surat, Gujarat",
+    "fees": 542000,
+    "rating": 4.1,
+    "placements_percentage": 81,
+    "avg_package": 850000,
+    "description": "Sardar Vallabhbhai National Institute of Technology, Surat is an NIT well-connected to Gujarat's textile and diamond industries and offers good engineering programs with improving placements.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/0/04/SVNIT_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Civil Engineering",
+      "Electrical Engineering"
+    ]
+  },
+  {
+    "name": "NIT Kurukshetra",
+    "location": "Kurukshetra, Haryana",
+    "fees": 530000,
+    "rating": 4.1,
+    "placements_percentage": 82,
+    "avg_package": 880000,
+    "description": "NIT Kurukshetra is located in the historic city of Kurukshetra and is known for its electrical, electronics, and computer science programs with a strong placement record.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/6/62/NIT_Kurukshetra_logo.png",
+    "courses": [
+      "Electrical Engineering",
+      "Computer Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "name": "Maulana Azad National Institute of Technology",
+    "location": "Bhopal, Madhya Pradesh",
+    "fees": 530000,
+    "rating": 4.1,
+    "placements_percentage": 80,
+    "avg_package": 830000,
+    "description": "MANIT Bhopal is an NIT centrally located in Madhya Pradesh with a comprehensive range of engineering programs and a progressive campus culture focused on research and development.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/8/84/MANIT_Bhopal_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Architecture",
+      "Electrical Engineering"
+    ]
+  },
+  {
+    "name": "Birla Institute of Technology Mesra",
+    "location": "Ranchi, Jharkhand",
+    "fees": 1350000,
+    "rating": 4.2,
+    "placements_percentage": 82,
+    "avg_package": 800000,
+    "description": "BIT Mesra is a prestigious private deemed university in Jharkhand with a scenic campus. It is known for its comprehensive engineering programs and connections to India's mining and IT sectors.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/e/e3/BIT_Mesra_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Space Engineering and Rocketry"
+    ]
+  },
+  {
+    "name": "Lovely Professional University",
+    "location": "Phagwara, Punjab",
+    "fees": 850000,
+    "rating": 3.8,
+    "placements_percentage": 74,
+    "avg_package": 500000,
+    "description": "LPU is one of India's largest private universities offering a wide array of engineering disciplines. It is known for its massive campus, international tie-ups, and focus on holistic student development.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/b/b7/LPU_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Civil Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "name": "Shiv Nadar University",
+    "location": "Greater Noida, Uttar Pradesh",
+    "fees": 2200000,
+    "rating": 4.4,
+    "placements_percentage": 90,
+    "avg_package": 1200000,
+    "description": "Shiv Nadar University is a research-driven private university near Delhi with world-class faculty and infrastructure. It focuses on liberal arts integrated with engineering and sciences.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/1/12/Shiv_Nadar_University_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electrical Engineering",
+      "Mathematics and Computing"
+    ]
+  },
+  {
+    "name": "Indraprastha Institute of Information Technology Delhi",
+    "location": "New Delhi, Delhi",
+    "fees": 680000,
+    "rating": 4.5,
+    "placements_percentage": 93,
+    "avg_package": 1600000,
+    "description": "IIIT Delhi is a state-of-the-art research institution with a strong focus on computing. Despite being relatively new, it has established a remarkable placement record with top global tech firms.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/4/4b/IIIT_Delhi_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Computational Biology"
+    ]
+  },
+  {
+    "name": "Symbiosis Institute of Technology",
+    "location": "Pune, Maharashtra",
+    "fees": 1500000,
+    "rating": 4.0,
+    "placements_percentage": 80,
+    "avg_package": 700000,
+    "description": "SIT Pune is part of the Symbiosis International University and is known for its modern campus, international exposure, and industry-relevant curriculum catering to Pune's IT sector.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/d/d1/SIT_Pune_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Robotics and Automation",
+      "Electronics and Telecommunication Engineering"
+    ]
+  },
+  {
+    "name": "Ramdeobaba University",
+    "location": "Nagpur, Maharashtra",
+    "fees": 680000,
+    "rating": 3.9,
+    "placements_percentage": 77,
+    "avg_package": 600000,
+    "description": "Ramdeobaba University (formerly RCOEM) is a private autonomous institution in Nagpur with a focus on student-centric education and strong ties with Nagpur's industrial and IT sectors.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/c/cf/RCOEM_Logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "name": "National Institute of Engineering Mysuru",
+    "location": "Mysuru, Karnataka",
+    "fees": 420000,
+    "rating": 3.9,
+    "placements_percentage": 76,
+    "avg_package": 570000,
+    "description": "NIE Mysuru is one of the oldest autonomous engineering colleges in Karnataka, offering quality education in core and emerging engineering fields and maintaining good ties with local industry.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/a/ac/National_Institute_of_Engineering_logo.png",
+    "courses": [
+      "Mechanical Engineering",
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "Jaypee Institute of Information Technology",
+    "location": "Noida, Uttar Pradesh",
+    "fees": 1300000,
+    "rating": 4.0,
+    "placements_percentage": 80,
+    "avg_package": 780000,
+    "description": "JIIT Noida is a private deemed university in the NCR region benefiting from proximity to Delhi's tech corridor. It offers focused programs in IT, electronics, and allied engineering disciplines.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/7/74/JIIT_Noida_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Information Technology"
+    ]
+  },
+  {
+    "name": "Maharashtra Institute of Technology",
+    "location": "Pune, Maharashtra",
+    "fees": 770000,
+    "rating": 4.0,
+    "placements_percentage": 79,
+    "avg_package": 640000,
+    "description": "MIT Pune is an autonomous engineering institution under Pune University, known for its infrastructure, technical festivals, and reasonable placement record in IT and auto sectors.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/a/a0/MIT_Pune_logo.png",
+    "courses": [
+      "Computer Engineering",
+      "Electronics and Telecommunication Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "name": "Graphic Era University",
+    "location": "Dehradun, Uttarakhand",
+    "fees": 700000,
+    "rating": 3.7,
+    "placements_percentage": 72,
+    "avg_package": 480000,
+    "description": "Graphic Era University is a private university in Dehradun known for its pleasant campus environment and engineering programs. It has growing placement support particularly for IT graduates.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/3/34/Graphic_Era_University_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "name": "GH Raisoni College of Engineering",
+    "location": "Nagpur, Maharashtra",
+    "fees": 640000,
+    "rating": 3.8,
+    "placements_percentage": 74,
+    "avg_package": 520000,
+    "description": "GH Raisoni is an autonomous private engineering college in Nagpur affiliated with RTMNU. It has been investing in new labs and industry partnerships to improve placement outcomes.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/7/7b/GH_Raisoni_College_of_Engineering_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Telecommunication Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "name": "Mepco Schlenk Engineering College",
+    "location": "Sivakasi, Tamil Nadu",
+    "fees": 380000,
+    "rating": 4.0,
+    "placements_percentage": 78,
+    "avg_package": 580000,
+    "description": "Mepco Schlenk is a well-regarded autonomous engineering college in Tamil Nadu known for consistently good campus placements in the IT and electronics sector.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/b/b7/Mepco_Schlenk_Engineering_College_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Electrical and Electronics Engineering"
+    ]
+  },
+  {
+    "name": "Sri Sivasubramaniya Nadar College of Engineering",
+    "location": "Kalavakkam, Tamil Nadu",
+    "fees": 560000,
+    "rating": 4.1,
+    "placements_percentage": 83,
+    "avg_package": 680000,
+    "description": "SSN College of Engineering is a top private autonomous institution near Chennai, known for its research-driven faculty, modern infrastructure, and impressive IT placement record.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/4/43/SSN_College_of_Engineering_Logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Information Technology"
+    ]
+  },
+  {
+    "name": "Bannari Amman Institute of Technology",
+    "location": "Sathyamangalam, Tamil Nadu",
+    "fees": 400000,
+    "rating": 3.9,
+    "placements_percentage": 77,
+    "avg_package": 560000,
+    "description": "Bannari Amman Institute of Technology is an autonomous engineering institution in Tamil Nadu with an emphasis on discipline, extracurricular activities, and core technical training.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/7/78/Bannari_Amman_Institute_of_Technology_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Mechanical Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "Kumaraguru College of Technology",
+    "location": "Coimbatore, Tamil Nadu",
+    "fees": 420000,
+    "rating": 4.0,
+    "placements_percentage": 80,
+    "avg_package": 600000,
+    "description": "KCT Coimbatore is an autonomous private institution with strong engineering and management programs. It is known for its values-based education and industry-integrated curriculum.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/f/f8/Kumaraguru_College_of_Technology_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Mechanical Engineering",
+      "Artificial Intelligence and Data Science"
+    ]
+  },
+  {
+    "name": "Karunya Institute of Technology and Sciences",
+    "location": "Coimbatore, Tamil Nadu",
+    "fees": 650000,
+    "rating": 3.8,
+    "placements_percentage": 73,
+    "avg_package": 520000,
+    "description": "Karunya University is a Christian-minority deemed university in Coimbatore with an emphasis on ethics and service. It offers a range of engineering programs with active placement support.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/9/9b/Karunya_University_Logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Civil Engineering",
+      "Electrical and Electronics Engineering"
+    ]
+  },
+  {
+    "name": "CMR College of Engineering and Technology",
+    "location": "Hyderabad, Telangana",
+    "fees": 480000,
+    "rating": 3.7,
+    "placements_percentage": 71,
+    "avg_package": 490000,
+    "description": "CMR College of Engineering and Technology in Hyderabad is affiliated with JNTUH and is known for offering affordable engineering education with industry-oriented training programs.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/f/f7/CMR_College_of_Engineering_and_Technology_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Mechanical Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Jodhpur",
+    "location": "Jodhpur, Rajasthan",
+    "fees": 897000,
+    "rating": 4.3,
+    "placements_percentage": 83,
+    "avg_package": 1400000,
+    "description": "IIT Jodhpur is a newer IIT in the heart of Rajasthan, growing rapidly with a focus on AI, design, and sustainability. Its desert campus is complemented by strong industry ties in the region.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/5/5d/IIT_Jodhpur_Logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Bhubaneswar",
+    "location": "Bhubaneswar, Odisha",
+    "fees": 897000,
+    "rating": 4.2,
+    "placements_percentage": 81,
+    "avg_package": 1350000,
+    "description": "IIT Bhubaneswar is steadily growing in research and academic reputation. Located in Odisha's capital, it enjoys proximity to the state's industrial corridor and IT parks.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/7/7b/IIT_Bhubaneswar_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Civil Engineering",
+      "School of Earth, Ocean and Climate"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Mandi",
+    "location": "Mandi, Himachal Pradesh",
+    "fees": 897000,
+    "rating": 4.2,
+    "placements_percentage": 80,
+    "avg_package": 1300000,
+    "description": "IIT Mandi is a picturesque institute in the Uhl River valley, known for its interdisciplinary approach and focus on societal challenges through technology.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/0/06/IIT_Mandi_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Data Science and Engineering",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Ropar",
+    "location": "Rupnagar, Punjab",
+    "fees": 897000,
+    "rating": 4.2,
+    "placements_percentage": 80,
+    "avg_package": 1300000,
+    "description": "IIT Ropar is a growing IIT in Punjab leveraging its proximity to Chandigarh's academic and industrial ecosystem. It has expanding research programs in biomedical and computer engineering.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3b/IIT_Ropar_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Biomedical Engineering",
+      "Electrical Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Palakkad",
+    "location": "Palakkad, Kerala",
+    "fees": 897000,
+    "rating": 4.1,
+    "placements_percentage": 79,
+    "avg_package": 1250000,
+    "description": "IIT Palakkad is a newer IIT in Kerala focused on sustainable technology and digital systems. It benefits from Kerala's strong educational culture and growing tech industry.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/f/f1/IIT_Palakkad_Logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Jammu",
+    "location": "Jammu, Jammu and Kashmir",
+    "fees": 897000,
+    "rating": 4.0,
+    "placements_percentage": 77,
+    "avg_package": 1200000,
+    "description": "IIT Jammu is one of the newest IITs, focused on building a strong academic foundation in the union territory of J&K, with an emphasis on sustainable development and regional needs.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3d/IIT_Jammu_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Civil Engineering",
+      "Electrical Engineering"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Meghalaya",
+    "location": "Shillong, Meghalaya",
+    "fees": 513000,
+    "rating": 3.9,
+    "placements_percentage": 73,
+    "avg_package": 720000,
+    "description": "NIT Meghalaya is a key technical institution in the Northeast, working to strengthen engineering education in the region. It has been improving its labs, faculty, and placement infrastructure.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/7/73/NIT_Meghalaya_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Civil Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Mizoram",
+    "location": "Aizawl, Mizoram",
+    "fees": 513000,
+    "rating": 3.7,
+    "placements_percentage": 68,
+    "avg_package": 620000,
+    "description": "NIT Mizoram is a growing institute in the Northeast serving the engineering education needs of Mizoram. It focuses on producing technically sound graduates suited to regional development.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/4/41/NIT_Mizoram_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electrical Engineering",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Manipur",
+    "location": "Imphal, Manipur",
+    "fees": 513000,
+    "rating": 3.8,
+    "placements_percentage": 70,
+    "avg_package": 650000,
+    "description": "NIT Manipur provides quality engineering education in Manipur. It is steadily improving its research output and placement outcomes while contributing to the development of Northeast India.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/9/97/NIT_Manipur_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Civil Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Agartala",
+    "location": "Agartala, Tripura",
+    "fees": 513000,
+    "rating": 3.9,
+    "placements_percentage": 72,
+    "avg_package": 680000,
+    "description": "NIT Agartala is the primary technical institution of Tripura, serving northeast India with quality engineering education. It has been seeing improvements in placements in IT and core sectors.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/b/b6/NIT_Agartala_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electrical Engineering",
+      "Production Engineering"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Srinagar",
+    "location": "Srinagar, Jammu and Kashmir",
+    "fees": 530000,
+    "rating": 3.9,
+    "placements_percentage": 73,
+    "avg_package": 690000,
+    "description": "NIT Srinagar is located amidst the scenic Kashmir Valley. It offers engineering programs spanning civil, computer, and electrical disciplines, with growing connections to IT and PSU sectors.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/6/65/NIT_Srinagar_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Civil Engineering",
+      "Electrical Engineering"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Goa",
+    "location": "Ponda, Goa",
+    "fees": 530000,
+    "rating": 4.0,
+    "placements_percentage": 76,
+    "avg_package": 800000,
+    "description": "NIT Goa is a compact but promising institute located in the coastal state. It offers focused engineering programs and benefits from Goa's tourism, IT, and emerging industries.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/b/b2/NIT_Goa_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Puducherry",
+    "location": "Karaikal, Puducherry",
+    "fees": 513000,
+    "rating": 3.8,
+    "placements_percentage": 71,
+    "avg_package": 650000,
+    "description": "NIT Puducherry is a newer NIT serving the southern union territory, focusing on producing industry-ready graduates in engineering disciplines aligned with Tamil Nadu and Puducherry's industries.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/a/a6/NIT_Puducherry_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Arunachal Pradesh",
+    "location": "Yupia, Arunachal Pradesh",
+    "fees": 513000,
+    "rating": 3.6,
+    "placements_percentage": 65,
+    "avg_package": 580000,
+    "description": "NIT Arunachal Pradesh is one of the newest NITs, serving India's northeastern frontier. It is working to build academic and industrial partnerships to improve the quality and quantity of placements.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/9/94/NIT_Arunachal_Pradesh_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Civil Engineering",
+      "Electrical Engineering"
+    ]
+  },
+  {
+    "name": "International Institute of Information Technology Naya Raipur",
+    "location": "Raipur, Chhattisgarh",
+    "fees": 540000,
+    "rating": 4.0,
+    "placements_percentage": 80,
+    "avg_package": 920000,
+    "description": "IIIT Naya Raipur is a government IIIT focused on producing IT-ready graduates in Chhattisgarh. It has modern labs and industry tie-ups to support its placement-driven curriculum.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/4/41/IIITNR_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Information Technology",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "International Institute of Information Technology Bhubaneswar",
+    "location": "Bhubaneswar, Odisha",
+    "fees": 540000,
+    "rating": 4.0,
+    "placements_percentage": 81,
+    "avg_package": 940000,
+    "description": "IIIT Bhubaneswar is a state-of-the-art IT-focused institution in Odisha's capital. It offers quality computing programs with strong industry-academia partnerships within Odisha's IT hubs.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/5/5e/IIIT_Bhubaneswar_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Information Technology",
+      "Electronics and Telecommunication Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Sri City",
+    "location": "Chittoor, Andhra Pradesh",
+    "fees": 530000,
+    "rating": 4.1,
+    "placements_percentage": 83,
+    "avg_package": 1050000,
+    "description": "IIIT Sri City is a PPP IIIT located within Sri City's industrial corridor near Chennai, offering direct industry exposure and placement support from the park's resident companies.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/7/7f/IIITSriCity_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Vadodara",
+    "location": "Vadodara, Gujarat",
+    "fees": 530000,
+    "rating": 4.0,
+    "placements_percentage": 80,
+    "avg_package": 950000,
+    "description": "IIIT Vadodara is a PPP IIIT in Gujarat offering specialized IT education with the support of Gujarat's strong industrial base and tech ecosystem.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/7/7a/IIITVadodara_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Information Technology",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Kota",
+    "location": "Kota, Rajasthan",
+    "fees": 530000,
+    "rating": 3.9,
+    "placements_percentage": 77,
+    "avg_package": 880000,
+    "description": "IIIT Kota benefits from the coaching capital of India's academic culture, providing quality IT education in Rajasthan with growing industry connections in the state's tech sector.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/b/b5/IIIT_Kota_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Information Technology"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Lucknow",
+    "location": "Lucknow, Uttar Pradesh",
+    "fees": 540000,
+    "rating": 4.0,
+    "placements_percentage": 82,
+    "avg_package": 1000000,
+    "description": "IIIT Lucknow is a PPP IIIT in the state capital of Uttar Pradesh. It is building strong connections with Lucknow's emerging IT sector and producing skilled software and electronics graduates.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/f/fd/IIIT_Lucknow_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Information Technology",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "VIT Chennai",
+    "location": "Chennai, Tamil Nadu",
+    "fees": 1750000,
+    "rating": 4.3,
+    "placements_percentage": 90,
+    "avg_package": 980000,
+    "description": "VIT Chennai campus offers the same VIT brand of engineering education in India's tech-friendly capital of Tamil Nadu, with strong campus placement drives from leading IT companies.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/8/8c/VIT_University_Logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Software Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "VIT Bhopal University",
+    "location": "Bhopal, Madhya Pradesh",
+    "fees": 1600000,
+    "rating": 4.0,
+    "placements_percentage": 80,
+    "avg_package": 750000,
+    "description": "VIT Bhopal is a newer campus in the VIT family located in central India, offering IT and core engineering programs. It benefits from VIT's pan-India placement network.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/8/8c/VIT_University_Logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Mechanical Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "Manipal University Jaipur",
+    "location": "Jaipur, Rajasthan",
+    "fees": 1700000,
+    "rating": 4.0,
+    "placements_percentage": 80,
+    "avg_package": 720000,
+    "description": "Manipal University Jaipur is a private deemed university offering quality engineering education in Rajasthan. It carries the Manipal brand's academic standards with a strong focus on practical training.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/b/bf/Manipal_Institute_of_Technology.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Civil Engineering",
+      "Electrical Engineering"
+    ]
+  },
+  {
+    "name": "Chandigarh University",
+    "location": "Mohali, Punjab",
+    "fees": 950000,
+    "rating": 4.1,
+    "placements_percentage": 83,
+    "avg_package": 680000,
+    "description": "Chandigarh University is one of North India's fastest-growing private universities, known for large-scale placement drives, diverse engineering programs, and strong ties to Chandigarh's tech corridor.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/2/28/Chandigarh_University_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "name": "Bennett University",
+    "location": "Greater Noida, Uttar Pradesh",
+    "fees": 1500000,
+    "rating": 4.0,
+    "placements_percentage": 79,
+    "avg_package": 780000,
+    "description": "Bennett University, promoted by the Times of India group, offers modern engineering programs in the NCR region. It emphasizes entrepreneurship, media-tech integration, and global exposure.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/2/25/Bennett_University_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Biotechnology"
+    ]
+  },
+  {
+    "name": "OP Jindal Global University",
+    "location": "Sonipat, Haryana",
+    "fees": 1950000,
+    "rating": 4.1,
+    "placements_percentage": 82,
+    "avg_package": 900000,
+    "description": "Jindal Global University is an emerging private university focused on interdisciplinary learning. Its engineering and technology programs integrate liberal arts, data science, and management studies.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/0/09/Jindal_Global_University_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Data Science and Artificial Intelligence",
+      "Electrical Engineering"
+    ]
+  },
+  {
+    "name": "Chitkara University",
+    "location": "Rajpura, Punjab",
+    "fees": 900000,
+    "rating": 4.0,
+    "placements_percentage": 79,
+    "avg_package": 680000,
+    "description": "Chitkara University is a private university in Punjab known for its industry-connected curriculum, active placement cell, and strong alumni presence in IT and automotive sectors.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/9/9f/Chitkara_University_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "name": "Marwadi University",
+    "location": "Rajkot, Gujarat",
+    "fees": 750000,
+    "rating": 3.8,
+    "placements_percentage": 73,
+    "avg_package": 530000,
+    "description": "Marwadi University is a private deemed university in Rajkot, offering engineering and management programs. It has been expanding its research initiatives and industry tie-ups in Gujarat.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/b/b6/Marwadi_University_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Civil Engineering",
+      "Electrical Engineering"
+    ]
+  },
+  {
+    "name": "Hindustan Institute of Technology and Science",
+    "location": "Chennai, Tamil Nadu",
+    "fees": 1100000,
+    "rating": 3.9,
+    "placements_percentage": 76,
+    "avg_package": 580000,
+    "description": "HITS Chennai is a deemed university with diverse engineering programs including aeronautical and automobile engineering. It has notable collaborations with aviation and automotive industries.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/f/fa/Hindustan_Institute_of_Technology_Science_logo.png",
+    "courses": [
+      "Aeronautical Engineering",
+      "Computer Science and Engineering",
+      "Automobile Engineering"
+    ]
+  },
+  {
+    "name": "Vel Tech Rangarajan Dr. Sagunthala R&D Institute",
+    "location": "Chennai, Tamil Nadu",
+    "fees": 800000,
+    "rating": 3.8,
+    "placements_percentage": 74,
+    "avg_package": 540000,
+    "description": "Vel Tech is a deemed university in Chennai with a focus on R&D and practical engineering training. It has growing placement activity and several industry-sponsored research projects.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/8/82/Vel_Tech_University_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Mechanical Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "Presidency University Bengaluru",
+    "location": "Bengaluru, Karnataka",
+    "fees": 850000,
+    "rating": 3.8,
+    "placements_percentage": 74,
+    "avg_package": 560000,
+    "description": "Presidency University Bengaluru is a growing private university in the IT capital of India. It offers engineering programs and benefits from Bengaluru's industry ecosystem for training and internships.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/7/74/Presidency_University_Bengaluru_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "name": "Jain University",
+    "location": "Bengaluru, Karnataka",
+    "fees": 950000,
+    "rating": 3.9,
+    "placements_percentage": 76,
+    "avg_package": 620000,
+    "description": "Jain Deemed-to-be University is a large private university in Bengaluru offering engineering alongside business and arts programs. Its diverse campus and sports culture attract students nationwide.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0a/Jain_University_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Mechanical Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "Christ University",
+    "location": "Bengaluru, Karnataka",
+    "fees": 1100000,
+    "rating": 4.0,
+    "placements_percentage": 78,
+    "avg_package": 680000,
+    "description": "Christ University is a reputed private deemed university in Bengaluru with a strong liberal arts ethos. Its engineering programs are known for holistic education blending technology with humanities.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/1/11/Christ_University_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Data Science",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "Dayananda Sagar College of Engineering",
+    "location": "Bengaluru, Karnataka",
+    "fees": 700000,
+    "rating": 4.0,
+    "placements_percentage": 78,
+    "avg_package": 650000,
+    "description": "DSCE Bengaluru is a well-established autonomous college affiliated with VTU. It offers strong engineering programs with consistent placements in IT, manufacturing, and civil sectors.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/c/cd/Dayananda_Sagar_College_of_Engineering_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Information Science and Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "name": "KLE Technological University",
+    "location": "Hubballi, Karnataka",
+    "fees": 620000,
+    "rating": 4.1,
+    "placements_percentage": 80,
+    "avg_package": 700000,
+    "description": "KLE Tech (formerly BVB College) is a well-regarded autonomous university in North Karnataka, known for producing skilled engineers placed in IT, manufacturing, and core engineering companies.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/2/28/KLE_Technological_University_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Mechanical Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "Nitte Meenakshi Institute of Technology",
+    "location": "Bengaluru, Karnataka",
+    "fees": 660000,
+    "rating": 3.9,
+    "placements_percentage": 76,
+    "avg_package": 600000,
+    "description": "NMIT Bengaluru is a private autonomous engineering college offering a range of UG and PG programs in engineering. It has good infrastructure and placement activity in IT and electronics sectors.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/a/ac/NMIT_Bangalore_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Information Science and Engineering"
+    ]
+  },
+  {
+    "name": "B.M.S. Institute of Technology and Management",
+    "location": "Bengaluru, Karnataka",
+    "fees": 610000,
+    "rating": 3.9,
+    "placements_percentage": 77,
+    "avg_package": 620000,
+    "description": "BMSIT&M is an autonomous engineering college in North Bengaluru affiliated with VTU. It offers quality technical education with a growing number of partnerships with tech companies.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/5/5e/BMSIT_M_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "name": "Siddaganga Institute of Technology",
+    "location": "Tumkur, Karnataka",
+    "fees": 420000,
+    "rating": 4.0,
+    "placements_percentage": 78,
+    "avg_package": 610000,
+    "description": "SIT Tumkur is one of Karnataka's reputed autonomous engineering colleges. Its long history and consistent academic performance make it a preferred destination for students from Central Karnataka.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/8/80/Siddaganga_Institute_of_Technology_logo.png",
+    "courses": [
+      "Mechanical Engineering",
+      "Computer Science and Engineering",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "name": "Thiagarajar College of Engineering",
+    "location": "Madurai, Tamil Nadu",
+    "fees": 470000,
+    "rating": 4.1,
+    "placements_percentage": 82,
+    "avg_package": 660000,
+    "description": "TCE Madurai is a prestigious autonomous engineering institution in Tamil Nadu with a strong tradition of academic excellence. Its graduates are consistently recruited by top IT and manufacturing firms.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/1/14/Thiagarajar_College_of_Engineering_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Mechanical Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "Coimbatore Institute of Technology",
+    "location": "Coimbatore, Tamil Nadu",
+    "fees": 390000,
+    "rating": 4.0,
+    "placements_percentage": 79,
+    "avg_package": 610000,
+    "description": "CIT Coimbatore is an autonomous institution in Tamil Nadu with over five decades of engineering education. Its close ties with Coimbatore's thriving industrial and textile sector benefit engineering graduates.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/c/c4/Coimbatore_Institute_of_Technology_logo.png",
+    "courses": [
+      "Mechanical Engineering",
+      "Computer Science and Engineering",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "name": "Kamaraj College of Engineering and Technology",
+    "location": "Virudhunagar, Tamil Nadu",
+    "fees": 360000,
+    "rating": 3.8,
+    "placements_percentage": 73,
+    "avg_package": 530000,
+    "description": "KCET Virudhunagar is an autonomous engineering college in South Tamil Nadu, known for affordability and quality technical education, particularly in core engineering disciplines.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/9/9b/Kamaraj_College_of_Engineering_Technology_logo.png",
+    "courses": [
+      "Mechanical Engineering",
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "Sri Krishna College of Engineering and Technology",
+    "location": "Coimbatore, Tamil Nadu",
+    "fees": 450000,
+    "rating": 4.0,
+    "placements_percentage": 80,
+    "avg_package": 620000,
+    "description": "SKCET Coimbatore is an autonomous institution with consistent placements and a growing reputation for applied research. It is closely connected to Coimbatore's manufacturing and IT industries.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/4/4b/Sri_Krishna_College_of_Engineering_Technology_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Mechanical Engineering",
+      "Electrical and Electronics Engineering"
+    ]
+  },
+  {
+    "name": "National Engineering College",
+    "location": "Kovilpatti, Tamil Nadu",
+    "fees": 370000,
+    "rating": 3.9,
+    "placements_percentage": 77,
+    "avg_package": 560000,
+    "description": "National Engineering College in Kovilpatti is a well-known autonomous institution in South Tamil Nadu, offering quality engineering education with consistent placement in IT and public sector companies.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/8/83/National_Engineering_College_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Civil Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "Hindustan College of Engineering",
+    "location": "Chennai, Tamil Nadu",
+    "fees": 540000,
+    "rating": 3.8,
+    "placements_percentage": 74,
+    "avg_package": 550000,
+    "description": "Hindustan College of Engineering in Chennai is affiliated with Hindustan Institute of Technology and is known for its mechanical and aerospace programs with industry exposure.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/a/a1/Hindustan_College_of_Engineering_logo.png",
+    "courses": [
+      "Mechanical Engineering",
+      "Aeronautical Engineering",
+      "Computer Science and Engineering"
+    ]
+  },
+  {
+    "name": "St. Joseph's College of Engineering",
+    "location": "Chennai, Tamil Nadu",
+    "fees": 510000,
+    "rating": 3.9,
+    "placements_percentage": 76,
+    "avg_package": 580000,
+    "description": "St. Joseph's College of Engineering is a reputed private autonomous college in Chennai affiliated with Anna University, known for its campus discipline and consistent placement drives.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/e/e7/St._Josephs_College_of_Engineering_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Information Technology"
+    ]
+  },
+  {
+    "name": "Institute of Road and Transport Technology",
+    "location": "Erode, Tamil Nadu",
+    "fees": 300000,
+    "rating": 3.7,
+    "placements_percentage": 70,
+    "avg_package": 490000,
+    "description": "IRTT Erode is a government-aided autonomous institution in Tamil Nadu with a niche focus on transport technology and traditional engineering disciplines.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/d/dc/IRTT_Erode_logo.png",
+    "courses": [
+      "Mechanical Engineering",
+      "Electronics and Communication Engineering",
+      "Computer Science and Engineering"
+    ]
+  },
+  {
+    "name": "Malaviya National Institute of Technology",
+    "location": "Jaipur, Rajasthan",
+    "fees": 560000,
+    "rating": 4.4,
+    "placements_percentage": 89,
+    "avg_package": 1100000,
+    "description": "MNIT Jaipur is one of the most respected NITs in India. Located in the Pink City, it has a strong tradition in electronics and civil engineering while producing consistently placed IT graduates.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/7/70/MNIT_Jaipur_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electrical Engineering",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "name": "Sardar Vallabhbhai National Institute of Technology",
+    "location": "Surat, Gujarat",
+    "fees": 542000,
+    "rating": 4.1,
+    "placements_percentage": 81,
+    "avg_package": 860000,
+    "description": "SVNIT Surat is an NIT well-embedded in Gujarat's industrial heartland. Known for its chemical and civil engineering programs, it serves the petrochemical and textile sectors actively.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/0/04/SVNIT_logo.png",
+    "courses": [
+      "Chemical Engineering",
+      "Civil Engineering",
+      "Computer Science and Engineering"
+    ]
+  },
+  {
+    "name": "Dr. B.R. Ambedkar National Institute of Technology Jalandhar",
+    "location": "Jalandhar, Punjab",
+    "fees": 542000,
+    "rating": 4.0,
+    "placements_percentage": 80,
+    "avg_package": 840000,
+    "description": "NIT Jalandhar is a well-regarded NIT in Punjab offering strong programs in instrumentation and control, chemical, and computer science engineering with active placement drives.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/4/4d/NITJ_logo.png",
+    "courses": [
+      "Instrumentation and Control Engineering",
+      "Chemical Engineering",
+      "Textile Technology"
+    ]
+  },
+  {
+    "name": "Harcourt Butler Technical University",
+    "location": "Kanpur, Uttar Pradesh",
+    "fees": 200000,
+    "rating": 3.9,
+    "placements_percentage": 73,
+    "avg_package": 560000,
+    "description": "HBTU Kanpur is a historic state technical university in UP, known for its chemical technology and pharmacy programs. It has been undergoing modernization to meet contemporary industry requirements.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3e/HBTU_Kanpur_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Chemical Technology",
+      "Electrical Engineering"
+    ]
+  },
+  {
+    "name": "Gautam Buddha University",
+    "location": "Greater Noida, Uttar Pradesh",
+    "fees": 450000,
+    "rating": 3.8,
+    "placements_percentage": 72,
+    "avg_package": 540000,
+    "description": "GBU is a state university in Greater Noida offering engineering and technology programs. Its proximity to the NCR region and Delhi-NCR IT corridor provides placement advantages for graduates.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3a/Gautam_Buddha_University_Logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "name": "Dr. A.P.J. Abdul Kalam Technical University",
+    "location": "Lucknow, Uttar Pradesh",
+    "fees": 580000,
+    "rating": 3.7,
+    "placements_percentage": 69,
+    "avg_package": 500000,
+    "description": "AKTU is a large affiliating state technical university in UP governing hundreds of colleges. Its constituent engineering colleges offer affordable technical education with growing industry outreach.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/d/d2/AKTU_Logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Mechanical Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "University Institute of Engineering and Technology Panjab University",
+    "location": "Chandigarh, Punjab",
+    "fees": 250000,
+    "rating": 4.0,
+    "placements_percentage": 77,
+    "avg_package": 680000,
+    "description": "UIET Chandigarh is the engineering arm of the prestigious Panjab University, known for quality engineering education and access to Chandigarh's thriving academic and industrial ecosystem.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/4/4f/UIET_PU_Chandigarh_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Biotechnology"
+    ]
+  },
+  {
+    "name": "Punjab Engineering College",
+    "location": "Chandigarh, Punjab",
+    "fees": 240000,
+    "rating": 4.3,
+    "placements_percentage": 85,
+    "avg_package": 980000,
+    "description": "PEC Chandigarh is a prestigious deemed university and one of the oldest engineering institutions in North India. It has a stellar alumni network and strong placements in IT and core engineering.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/7/78/Punjab_Engineering_College_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Mechanical Engineering",
+      "Aerospace Engineering"
+    ]
+  },
+  {
+    "name": "Panjab University SSG Regional Centre",
+    "location": "Hoshiarpur, Punjab",
+    "fees": 200000,
+    "rating": 3.6,
+    "placements_percentage": 65,
+    "avg_package": 460000,
+    "description": "This regional center of Panjab University provides affordable engineering education in a semi-urban setting, giving students access to the Panjab University brand and its academic resources.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/6/67/Panjab_University_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "name": "Walchand College of Engineering",
+    "location": "Sangli, Maharashtra",
+    "fees": 320000,
+    "rating": 4.1,
+    "placements_percentage": 82,
+    "avg_package": 720000,
+    "description": "Walchand College of Engineering Sangli is one of Maharashtra's oldest and most respected government-aided autonomous colleges. It has strong industry links particularly in manufacturing and IT.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/6/64/Walchand_College_of_Engineering_logo.png",
+    "courses": [
+      "Mechanical Engineering",
+      "Computer Science and Engineering",
+      "Electronics and Telecommunication Engineering"
+    ]
+  },
+  {
+    "name": "K.J. Somaiya College of Engineering",
+    "location": "Mumbai, Maharashtra",
+    "fees": 680000,
+    "rating": 4.2,
+    "placements_percentage": 84,
+    "avg_package": 810000,
+    "description": "KJ Somaiya is a reputed autonomous engineering college in Mumbai's Vidyavihar area, known for strong academics and excellent placement support driven by Mumbai's corporate ecosystem.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/0/04/KJSCE_logo.png",
+    "courses": [
+      "Computer Engineering",
+      "Electronics and Telecommunication Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "name": "D.J. Sanghvi College of Engineering",
+    "location": "Mumbai, Maharashtra",
+    "fees": 640000,
+    "rating": 4.1,
+    "placements_percentage": 83,
+    "avg_package": 790000,
+    "description": "DJSCE Mumbai is a highly regarded autonomous college affiliated with Mumbai University. Known for a strong technical culture, it has excellent placement support particularly in IT and electronics.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/8/8d/DJSCE_Mumbai_logo.png",
+    "courses": [
+      "Computer Engineering",
+      "Electronics and Telecommunication Engineering",
+      "Information Technology"
+    ]
+  },
+  {
+    "name": "NMIMS Mukesh Patel School of Technology Management and Engineering",
+    "location": "Mumbai, Maharashtra",
+    "fees": 2100000,
+    "rating": 4.4,
+    "placements_percentage": 91,
+    "avg_package": 1150000,
+    "description": "MPSTME is the engineering school of NMIMS University, offering technology programs integrated with management education. It is well-regarded for its industry connections and placement outcomes in tech and consulting.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/1/11/NMIMS_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Telecommunication Engineering",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Vidyalankar Institute of Technology",
+    "location": "Mumbai, Maharashtra",
+    "fees": 570000,
+    "rating": 3.9,
+    "placements_percentage": 75,
+    "avg_package": 580000,
+    "description": "VIT Mumbai is an autonomous college in Wadala known for a dedicated placement cell and active student technical clubs, offering programs aligned with Mumbai's diverse industry base.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/c/cb/VIT_Mumbai_logo.png",
+    "courses": [
+      "Computer Engineering",
+      "Electronics and Telecommunication Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "name": "Atharva College of Engineering",
+    "location": "Mumbai, Maharashtra",
+    "fees": 520000,
+    "rating": 3.7,
+    "placements_percentage": 70,
+    "avg_package": 510000,
+    "description": "Atharva College is a private engineering institution in Mumbai affiliated with Mumbai University. It offers affordable engineering education with growing placement support for IT graduates.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/7/75/Atharva_College_of_Engineering_logo.png",
+    "courses": [
+      "Computer Engineering",
+      "Information Technology",
+      "Electronics and Telecommunication Engineering"
+    ]
+  },
+  {
+    "name": "Government College of Engineering Aurangabad",
+    "location": "Aurangabad, Maharashtra",
+    "fees": 180000,
+    "rating": 3.9,
+    "placements_percentage": 74,
+    "avg_package": 560000,
+    "description": "GECA is a premier government engineering college in Marathwada, offering affordable quality education and benefitting from Aurangabad's growing automobile and manufacturing industries.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3c/GECA_logo.png",
+    "courses": [
+      "Mechanical Engineering",
+      "Computer Science and Engineering",
+      "Electronics and Telecommunication Engineering"
+    ]
+  },
+  {
+    "name": "Sinhgad College of Engineering",
+    "location": "Pune, Maharashtra",
+    "fees": 580000,
+    "rating": 3.8,
+    "placements_percentage": 73,
+    "avg_package": 540000,
+    "description": "Sinhgad College of Engineering is a large private institution in Pune with a wide range of engineering programs. It benefits from Pune's IT and automotive industries for placement.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/2/25/Sinhgad_College_of_Engineering_logo.png",
+    "courses": [
+      "Computer Engineering",
+      "Mechanical Engineering",
+      "Electronics and Telecommunication Engineering"
+    ]
+  },
+  {
+    "name": "Pimpri Chinchwad College of Engineering",
+    "location": "Pune, Maharashtra",
+    "fees": 480000,
+    "rating": 4.0,
+    "placements_percentage": 78,
+    "avg_package": 620000,
+    "description": "PCCOE is a well-established private autonomous college in Pune's industrial belt. It is known for strong ties with the automotive industry and consistent placements in IT and manufacturing companies.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/7/75/PCCOE_logo.png",
+    "courses": [
+      "Computer Engineering",
+      "Mechanical Engineering",
+      "Electronics and Telecommunication Engineering"
+    ]
+  },
+  {
+    "name": "Indira College of Engineering and Management",
+    "location": "Pune, Maharashtra",
+    "fees": 450000,
+    "rating": 3.7,
+    "placements_percentage": 69,
+    "avg_package": 490000,
+    "description": "ICEM Pune is an emerging engineering college in Pune's Khed area offering affordable education and growing placement support, particularly for IT and mechanical engineering graduates.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/6/65/Indira_College_of_Engineering_Management_logo.png",
+    "courses": [
+      "Computer Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "name": "Dr. Vishwanath Karad MIT World Peace University",
+    "location": "Pune, Maharashtra",
+    "fees": 1200000,
+    "rating": 4.0,
+    "placements_percentage": 79,
+    "avg_package": 680000,
+    "description": "MIT-WPU is a private deemed university in Pune integrating engineering with global peace and sustainability values. It has broad industry connections and an international outlook for its graduates.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/4/4d/MIT_World_Peace_University_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Mechanical Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "Rajasthan Technical University",
+    "location": "Kota, Rajasthan",
+    "fees": 190000,
+    "rating": 3.7,
+    "placements_percentage": 67,
+    "avg_package": 480000,
+    "description": "RTU Kota is the state technical university for Rajasthan, affiliating numerous engineering colleges. Its constituent campus offers affordable engineering education in core disciplines.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/4/49/Rajasthan_Technical_University_logo.png",
+    "courses": [
+      "Mechanical Engineering",
+      "Electronics and Communication Engineering",
+      "Computer Science and Engineering"
+    ]
+  },
+  {
+    "name": "Poornima College of Engineering",
+    "location": "Jaipur, Rajasthan",
+    "fees": 600000,
+    "rating": 3.9,
+    "placements_percentage": 75,
+    "avg_package": 570000,
+    "description": "Poornima College is a leading private engineering institution in Jaipur, well-regarded in Rajasthan for its industry-academia initiatives and steadily improving campus placement results.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/6/65/Poornima_College_of_Engineering_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "name": "Amity University Noida",
+    "location": "Noida, Uttar Pradesh",
+    "fees": 1700000,
+    "rating": 4.0,
+    "placements_percentage": 78,
+    "avg_package": 700000,
+    "description": "Amity University is one of India's largest private universities, known for international collaborations, sprawling infrastructure, and wide range of engineering and technology programs.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/7/73/Amity_University_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Biotechnology Engineering"
+    ]
+  },
+  {
+    "name": "Galgotias University",
+    "location": "Greater Noida, Uttar Pradesh",
+    "fees": 800000,
+    "rating": 3.8,
+    "placements_percentage": 72,
+    "avg_package": 530000,
+    "description": "Galgotias University is a large private university in the Delhi NCR region with growing placement activity. Its engineering programs are supported by active industry partnerships.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/1/17/Galgotias_University_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "name": "GL Bajaj Institute of Technology and Management",
+    "location": "Greater Noida, Uttar Pradesh",
+    "fees": 700000,
+    "rating": 3.8,
+    "placements_percentage": 72,
+    "avg_package": 520000,
+    "description": "GL Bajaj is a popular private engineering institution in Greater Noida offering technology-focused programs. It has been growing its industry partnerships for placement and internship support.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/b/b5/GL_Bajaj_Institute_of_Technology_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Mechanical Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "BIT Sindri",
+    "location": "Sindri, Jharkhand",
+    "fees": 180000,
+    "rating": 3.9,
+    "placements_percentage": 72,
+    "avg_package": 560000,
+    "description": "BIT Sindri is a historic government engineering college in Jharkhand. Located in the industrial heartland, it has strong programs in mining, metallurgy, and electrical engineering.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/f/f7/BIT_Sindri_logo.png",
+    "courses": [
+      "Mining Engineering",
+      "Electrical Engineering",
+      "Computer Science and Engineering"
+    ]
+  },
+  {
+    "name": "Government Engineering College Thrissur",
+    "location": "Thrissur, Kerala",
+    "fees": 80000,
+    "rating": 4.1,
+    "placements_percentage": 81,
+    "avg_package": 700000,
+    "description": "GEC Thrissur is one of Kerala's top government engineering colleges. With minimal fees and high academic quality, it produces skilled graduates placed across IT and core engineering companies.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/f/f6/Govt_Engineering_College_Thrissur_logo.png",
+    "courses": [
+      "Civil Engineering",
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "TKM College of Engineering",
+    "location": "Kollam, Kerala",
+    "fees": 90000,
+    "rating": 4.1,
+    "placements_percentage": 80,
+    "avg_package": 680000,
+    "description": "TKM College of Engineering in Kollam is a premier government-aided autonomous institution in Kerala, known for affordable, high-quality engineering education and consistent placement outcomes.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/9/94/TKM_College_of_Engineering_logo.png",
+    "courses": [
+      "Mechanical Engineering",
+      "Computer Science and Engineering",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "name": "Mar Athanasius College of Engineering",
+    "location": "Kothamangalam, Kerala",
+    "fees": 110000,
+    "rating": 4.0,
+    "placements_percentage": 79,
+    "avg_package": 650000,
+    "description": "MACE Kothamangalam is a reputed private aided engineering college in Kerala affiliated with APJ Abdul Kalam Technological University, offering quality engineering education at low cost.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/2/2e/MACE_Kothamangalam_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "name": "Rajiv Gandhi Institute of Petroleum Technology",
+    "location": "Amethi, Uttar Pradesh",
+    "fees": 640000,
+    "rating": 4.3,
+    "placements_percentage": 87,
+    "avg_package": 1200000,
+    "description": "RGIPT is a specialized institute of national importance with a focus on petroleum engineering and related disciplines. It has strong ties with ONGC, IOC, and other energy-sector companies.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/4/4a/RGIPT_Logo.png",
+    "courses": [
+      "Petroleum Engineering",
+      "Chemical Engineering",
+      "Computer Science and Engineering"
+    ]
+  },
+  {
+    "name": "National Institute of Foundry and Forge Technology",
+    "location": "Ranchi, Jharkhand",
+    "fees": 390000,
+    "rating": 4.0,
+    "placements_percentage": 80,
+    "avg_package": 780000,
+    "description": "NIFFT Ranchi is a specialized institute under Ministry of Education focusing on foundry and forging technology. It has excellent PSU and manufacturing sector placements.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/b/b4/NIFFT_Ranchi_logo.png",
+    "courses": [
+      "Manufacturing Engineering",
+      "Mechanical Engineering",
+      "Computer Science and Engineering"
+    ]
+  },
+  {
+    "name": "Institute of Infrastructure Technology Research and Management",
+    "location": "Ahmedabad, Gujarat",
+    "fees": 560000,
+    "rating": 4.2,
+    "placements_percentage": 84,
+    "avg_package": 850000,
+    "description": "IITRAM Ahmedabad is a niche government technical university focusing on infrastructure, energy, and ICT disciplines. It has strong links with Gujarat's infrastructure sector.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/b/bd/IITRAM_logo.png",
+    "courses": [
+      "Civil Engineering",
+      "Electrical Engineering",
+      "Information and Communication Technology"
+    ]
+  },
+  {
+    "name": "Lakhmi Chand Institute of Technology",
+    "location": "Bhiwani, Haryana",
+    "fees": 280000,
+    "rating": 3.6,
+    "placements_percentage": 65,
+    "avg_package": 450000,
+    "description": "LCIT Bhiwani is a government-aided engineering college in Haryana, offering affordable technical education in a semi-urban setting with growing placement support from regional industries.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/5/5f/LCIT_Bhiwani_logo.png",
+    "courses": [
+      "Mechanical Engineering",
+      "Computer Science and Engineering",
+      "Electronics and Communication Engineering"
+    ]
+  },
+  {
+    "name": "Deenbandhu Chhotu Ram University of Science and Technology",
+    "location": "Murthal, Haryana",
+    "fees": 230000,
+    "rating": 3.8,
+    "placements_percentage": 71,
+    "avg_package": 540000,
+    "description": "DCRUST Murthal is a state university in Haryana with a range of engineering programs. Located on NH-44, it has proximity to Delhi-NCR industries, aiding placement drives for graduates.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/1/13/DCRUST_Murthal_logo.png",
+    "courses": [
+      "Computer Science and Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering"
+    ]
+  }
+]
